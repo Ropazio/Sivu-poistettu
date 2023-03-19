@@ -1,0 +1,13 @@
+body {
+	background: url(eetteri.jpg);
+	background-size: cover;
+	font-family: Papyrus, Didot, Fantasy;
+}
+
+.headline {
+	text-align: center;
+	margin-left: 140px;
+	margin-right: 140px;
+	margin-top: 200px;
+	color: #EEE;
+}
